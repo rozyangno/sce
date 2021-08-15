@@ -1,2 +1,1 @@
-# sce
-Stochastic Cluster Embedding
+# Stochastic Cluster Embedding (SCE)
