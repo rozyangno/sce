@@ -1,5 +1,7 @@
 # Stochastic Cluster Embedding (SCE)
 
+The code implements the algorithm in [the SCE paper](https://arxiv.org/abs/2108.08003).
+
 SCE is a data visualization method which shows the clusters in well-clusterable data. The input is a pairwise similarity matrix, which is often obtained by using Entropic Affinity or K-nearest-neighbor graph.
 
 The SCE program is a standalone excutable which has been tested in Ubuntu. We also provide a Matlab wrapper.
