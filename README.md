@@ -18,6 +18,8 @@ For Matlab, see demo.m.
 For Python, see demo_vectors.py or demo_similarities.py.
 
 ## Demonstration
+You can download the data [here](https://ntnu.box.com/s/ar1j9iijjw266xs45jm32w24yadvo21b) to repeat the following demos.
+
 ### SHUTTLE data set
 58,000 data points. [Data source](https://archive.ics.uci.edu/ml/datasets/Statlog+(Shuttle)). [Pre-computed similarity matrix](https://ntnu.box.com/s/8vkjttpvk9ntyjuya031aaje7fjjejwu) (entropic affinity with perplexity 30).
 <table cellspacing="0">
