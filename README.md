@@ -126,9 +126,11 @@ structure of forests. [The original vectorial data (NB! 5.6GB)](https://ntnu.box
 # FAQs
 * Q: SCE cannot find clusters for my data. Why?
 * A: SCE is designed for well-clustered data. SCE may not identify meaningful clusters if your data is not well-clustered.
+<br/>
 
 * Q: The clusters found by SCE do not match the ground truth classes in my data. Why?
 * A: SCE is an unsupervised method. There is no guarantee that the clusters must be aligned with the supervised class labels.
+<br/>
 
 * Q: The clusters found by SCE looked too small. How can I improve it?
 * A: You can tune the parameter alpha to adjust the attraction-repulsion trade-off. By default alpha=0.5. When alpha approaches 0, it behaves similarly to SNE. When alpha approaches 1, the clusters would be more shattered or more compact.
