@@ -4,6 +4,7 @@ The code implements the algorithm in [the SCE paper](https://doi.org/10.1007/s11
 ```
 @article{sce,
     title={Stochastic Cluster Embedding},
+    author={Zhirong Yang and Yuwei Chen and Denis Sedov and Samuel Kaski and Jukka Corander}
     journal={Statistics and Computing},
     year={2023},
     volume={33},
